@@ -118,4 +118,5 @@ temp/
 
 # IDE
 .idea/*
-script.py
+script.*
+.vscode/
