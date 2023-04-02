@@ -9,7 +9,7 @@ setup(
     url='https://github.com/arthurtyukayev/python-safer',
     keywords='SAFER safer department transportation fitness electronic records system',
     author='Arthur Tyukayev',
-    author_email = 'arthurtyukayev@gmail.com',
+    author_email='arthurtyukayev@gmail.com',
     install_requires=['lxml', 'requests', 'python-dateutil'],
     license='MIT',
 )
